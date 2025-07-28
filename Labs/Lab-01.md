@@ -1,9 +1,7 @@
-Networking-Basics
-Here’s an interactive and engaging version of your `README.md` file section for the image you shared, with Markdown formatting and emojis to guide the reader:
 
 ---
 
-## 🧪 Cisco Lab 01 - Basic Network Topology
+## Cisco Lab 01 - Basic Network Topology
 
 ![Network Topology](./624c9e09-9cbb-4736-84f8-92d40f5f4ab1.png)
 
