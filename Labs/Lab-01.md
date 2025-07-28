@@ -70,4 +70,3 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 
 ---
 
-Let me know if you want to add **routing commands**, **subnetting explanation**, or **export the .pkt file** reference too.
