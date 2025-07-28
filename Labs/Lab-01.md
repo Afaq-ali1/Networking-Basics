@@ -33,22 +33,22 @@ Router> enable
 *Enter configuration commands, one per line. End with CNTL/Z.
 
 * **Configure GigabitEthernet0/0 for LAN 1 with IP 192.168.1.1/24**:
-*Router1(config)# interface GigabitEthernet0/0
-*Router1(config-if)# ip address 192.168.1.1 255.255.255.0
-*Router1(config-if)# no shutdown   # Activates the interface
-*Router1(config-if)# exit
+   * Router1(config)# interface GigabitEthernet0/0
+   * Router1(config-if)# ip address 192.168.1.1 255.255.255.0
+   * Router1(config-if)# no shutdown   # Activates the interface
+   * Router1(config-if)# exit
 
 * **Configure GigabitEthernet0/1 for LAN 1 with IP 192.168.2.1/24**:
    * Router1(config)# interface GigabitEthernet0/1
-   *Router1(config-if)# ip address 192.168.2.1 255.255.255.0
-*Router1(config-if)# no shutdown   # Activates the interface
-*Router1(config-if)# exit
+   * Router1(config-if)# ip address 192.168.2.1 255.255.255.0
+   * Router1(config-if)# no shutdown   # Activates the interface
+   * Router1(config-if)# exit
 
 * **Exit configuration mode**:
-Router1(config)# end
+   * Router1(config)# end
 
 * **(Optional) Save your configuration to NVRAM**:
-Router1# write memory
+   * Router1# write memory
 
 ---
 
