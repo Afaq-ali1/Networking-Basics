@@ -25,23 +25,24 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 ### Router Configuration Setup
 <img width="634" height="339" alt="image" src="https://github.com/user-attachments/assets/d1bc9ab4-6b5e-4448-bf41-b698c8d6d2dd" />
 
+### Router Configuration Commands
 Router> enable
 
 * **Enter global configuration mode**:
-Router# configure terminal
-Enter configuration commands, one per line. End with CNTL/Z.
+*Router# configure terminal
+*Enter configuration commands, one per line. End with CNTL/Z.
 
 * **Configure GigabitEthernet0/0 for LAN 1 with IP 192.168.1.1/24**:
-Router1(config)# interface GigabitEthernet0/0
-Router1(config-if)# ip address 192.168.1.1 255.255.255.0
-Router1(config-if)# no shutdown   # Activates the interface
-Router1(config-if)# exit
+*Router1(config)# interface GigabitEthernet0/0
+*Router1(config-if)# ip address 192.168.1.1 255.255.255.0
+*Router1(config-if)# no shutdown   # Activates the interface
+*Router1(config-if)# exit
 
-Configure GigabitEthernet0/1 for LAN 2 with IP 192.168.2.1/24
-Router1(config)# interface GigabitEthernet0/1
-Router1(config-if)# ip address 192.168.2.1 255.255.255.0
-Router1(config-if)# no shutdown   # Activates the interface
-Router1(config-if)# exit
+* **Configure GigabitEthernet0/1 for LAN 1 with IP 192.168.2.1/24**:
+*Router1(config)# interface GigabitEthernet0/1
+*Router1(config-if)# ip address 192.168.2.1 255.255.255.0
+*Router1(config-if)# no shutdown   # Activates the interface
+*Router1(config-if)# exit
 
 * **Exit configuration mode**:
 Router1(config)# end
