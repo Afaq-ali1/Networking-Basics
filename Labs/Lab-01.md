@@ -49,16 +49,10 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 
 ---
 
-### 🧪 Try It Yourself!
+### 🧪 Testing On PC1
 
-```bash
-# On PC0
-ping 192.168.1.11   # Should succeed (same LAN)
-ping 192.168.2.10   # Should succeed (via router)
+<img width="699" height="381" alt="image" src="https://github.com/user-attachments/assets/000f5e9d-663f-4be3-8dee-ee3855eeaa5c" />
 
-# On PC2
-ping 192.168.2.11   # Should succeed (same LAN)
-ping 192.168.1.10   # Should succeed (via router)
 ```
 <img width="535" height="101" alt="image" src="https://github.com/user-attachments/assets/f9f1007c-2671-4114-9fd4-66357d15ef08" />
 
