@@ -20,10 +20,10 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 | ------ | --------- | -------------- | -------------------- |
 | Router | G0/0      | `192.168.1.1`  | Gateway for LAN 1    |
 | Router | G0/1      | `192.168.2.1`  | Gateway for LAN 2    |
-                  | PC0    | Fa0       | `192.168.1.10` | Connected to Switch0 |
-                  | PC1    | Fa0       | `192.168.1.11` | Connected to Switch0 |
-                  | PC2    | Fa0       | `192.168.2.10` | Connected to Switch1 |
-                  | PC3    | Fa0       | `192.168.2.11` | Connected to Switch1 |
+| PC0    | Fa0       | `192.168.1.10` | Connected to Switch0 |
+| PC1    | Fa0       | `192.168.1.11` | Connected to Switch0 |
+| PC2    | Fa0       | `192.168.2.10` | Connected to Switch1 |
+| PC3    | Fa0       | `192.168.2.11` | Connected to Switch1 |
 
 ---
 
