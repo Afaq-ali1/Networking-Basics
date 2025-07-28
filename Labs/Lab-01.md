@@ -7,13 +7,13 @@ Here’s an interactive and engaging version of your `README.md` file section fo
 
 ![Network Topology](./624c9e09-9cbb-4736-84f8-92d40f5f4ab1.png)
 
-### 🖥️ Lab Overview
+### Lab Overview
 
 This lab demonstrates a basic network topology using Cisco Packet Tracer. It showcases how two separate LANs communicate through a central router.
 
 ---
 
-### 🔧 Network Configuration
+### Network Configuration
 <img width="846" height="415" alt="image" src="https://github.com/user-attachments/assets/9d5a1ec9-7198-4c00-ad3a-2cc497f0ebd1" />
 
 | Device | Interface | IP Address     | Description          |
@@ -27,7 +27,7 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 
 ---
 
-### 🌐 Logical Layout
+### Logical Layout
 
 * **Left Side (LAN 1)**:
 
@@ -41,7 +41,7 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 
 ---
 
-### 🛠️ How It Works
+### How It Works
 
 1. **Router provides routing** between two different subnets: `192.168.1.0/24` and `192.168.2.0/24`.
 2. Devices in each LAN can **communicate within their subnet**.
@@ -54,7 +54,8 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 <img width="699" height="381" alt="image" src="https://github.com/user-attachments/assets/000f5e9d-663f-4be3-8dee-ee3855eeaa5c" />
 
 ```
-<img width="535" height="101" alt="image" src="https://github.com/user-attachments/assets/f9f1007c-2671-4114-9fd4-66357d15ef08" />
+<img width="535" height="101" alt="image" src="https://github.com/user-attachments/assets/94b85a93-830a-4555-9238-2f252ed80a02" />
+
 
 ---
 
