@@ -49,12 +49,14 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 
 ---
 
-### 🧪 Testing On PC1
+### Testing On PC1
 
 <img width="699" height="381" alt="image" src="https://github.com/user-attachments/assets/000f5e9d-663f-4be3-8dee-ee3855eeaa5c" />
 
-```
-<img width="535" height="101" alt="image" src="https://github.com/user-attachments/assets/94b85a93-830a-4555-9238-2f252ed80a02" />
+
+## Sending messages
+<img width="535" height="101" alt="image" src="https://github.com/user-attachments/assets/349529e6-0b61-469b-b15e-3a0b104fdc54" />
+
 
 
 ---
