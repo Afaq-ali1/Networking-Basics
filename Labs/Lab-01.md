@@ -17,14 +17,14 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 <img width="846" height="415" alt="image" src="https://github.com/user-attachments/assets/9d5a1ec9-7198-4c00-ad3a-2cc497f0ebd1" />
 
 
-| Device | Interface | IP Address     | Description          |
-| ------ | --------- | -------------- | -------------------- |
-| Router | G0/0      | `192.168.1.1`  | Gateway for LAN 1    |
-| Router | G0/1      | `192.168.2.1`  | Gateway for LAN 2    |
-| PC0    | Fa0       | `192.168.1.10` | Connected to Switch0 |
-| PC1    | Fa0       | `192.168.1.11` | Connected to Switch0 |
-| PC2    | Fa0       | `192.168.2.10` | Connected to Switch1 |
-| PC3    | Fa0       | `192.168.2.11` | Connected to Switch1 |
+                  | Device | Interface | IP Address     | Description          |
+                  | ------ | --------- | -------------- | -------------------- |
+                  | Router | G0/0      | `192.168.1.1`  | Gateway for LAN 1    |
+                  | Router | G0/1      | `192.168.2.1`  | Gateway for LAN 2    |
+                  | PC0    | Fa0       | `192.168.1.10` | Connected to Switch0 |
+                  | PC1    | Fa0       | `192.168.1.11` | Connected to Switch0 |
+                  | PC2    | Fa0       | `192.168.2.10` | Connected to Switch1 |
+                  | PC3    | Fa0       | `192.168.2.11` | Connected to Switch1 |
 
 ---
 
