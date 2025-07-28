@@ -14,7 +14,7 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 ---
 
 ### 🔧 Network Configuration
-                      <img width="846" height="415" alt="image" src="https://github.com/user-attachments/assets/9d5a1ec9-7198-4c00-ad3a-2cc497f0ebd1" />
+<img width="846" height="415" alt="image" src="https://github.com/user-attachments/assets/9d5a1ec9-7198-4c00-ad3a-2cc497f0ebd1" />
 
 | Device | Interface | IP Address     | Description          |
 | ------ | --------- | -------------- | -------------------- |
@@ -60,7 +60,7 @@ ping 192.168.2.10   # Should succeed (via router)
 ping 192.168.2.11   # Should succeed (same LAN)
 ping 192.168.1.10   # Should succeed (via router)
 ```
-                       <img width="535" height="101" alt="image" src="https://github.com/user-attachments/assets/f9f1007c-2671-4114-9fd4-66357d15ef08" />
+<img width="535" height="101" alt="image" src="https://github.com/user-attachments/assets/f9f1007c-2671-4114-9fd4-66357d15ef08" />
 
 ---
 
