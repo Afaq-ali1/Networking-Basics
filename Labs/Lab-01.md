@@ -14,6 +14,8 @@ This lab demonstrates a basic network topology using Cisco Packet Tracer. It sho
 ---
 
 ### 🔧 Network Configuration
+<img width="846" height="415" alt="image" src="https://github.com/user-attachments/assets/9d5a1ec9-7198-4c00-ad3a-2cc497f0ebd1" />
+
 
 | Device | Interface | IP Address     | Description          |
 | ------ | --------- | -------------- | -------------------- |
